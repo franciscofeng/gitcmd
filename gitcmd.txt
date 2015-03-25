@@ -122,4 +122,3 @@ git add README
 git commit -m 'first commit'
 git remote add origin git@github.com:daixu/WebApp.git
 git push -u origin master
-add a line on branch,need to remove it on master
