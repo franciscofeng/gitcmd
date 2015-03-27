@@ -11,3 +11,12 @@ Git stash 使用方法：http://my.eoe.cn/sunxun/archive/190.html
 Git tag的使用：http://my.eoe.cn/futurexiong/archive/1943.html
 大白话讲解如何给github上项目贡献代码：http://my.eoe.cn/leigo/archive/3221.html
 git教程 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+other git repo:
+
+为了保存火种，除了GitHub之外，我更想多推推其他可以选择的平台：
+
+1.GitLab，本身开源的企业Git服务平台，创始人来自乌克兰。目前已有超过10万公司用户，其中0.1%付费。现在明确打出了“Better than GitHub”的口号。Dibona本人在Hacker News的讨论中也说：“I heartily recommend people look at Gitlab…”。CSDN的Code也是基于GitLab开发的；
+2.BitBucket，侧重于私有仓库，由专业开发者服务公司Atlassian（Jira背后的公司）开发维护。比GitHub相比最明显的好处是5用户的私有仓库是免费的，同时支持Mercurial和Git；
+3.LaunchPad，Ubuntu公司Canonical开发的平台，上面有不到4万个项目，比GitHub少得多，但是有一些大牌的项目比如OpenStack和MySQL等。支持翻译，重视国际化的项目可以考虑；
+4.国内也有我们自己的CSDN Code，开源中国的Git@OSC，GitCafe和Coding.net可供选择。
